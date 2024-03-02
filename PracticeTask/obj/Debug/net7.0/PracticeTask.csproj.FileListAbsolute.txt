@@ -1,0 +1,14 @@
+E:\Projects\PracticeTask\PracticeTask\obj\Debug\net7.0\PracticeTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\PracticeTask\PracticeTask\obj\Debug\net7.0\PracticeTask.AssemblyInfoInputs.cache
+E:\Projects\PracticeTask\PracticeTask\obj\Debug\net7.0\PracticeTask.AssemblyInfo.cs
+E:\Projects\PracticeTask\PracticeTask\obj\Debug\net7.0\PracticeTask.csproj.CoreCompileInputs.cache
+E:\Projects\PracticeTask\PracticeTask\bin\Debug\net7.0\PracticeTask.exe
+E:\Projects\PracticeTask\PracticeTask\bin\Debug\net7.0\PracticeTask.deps.json
+E:\Projects\PracticeTask\PracticeTask\bin\Debug\net7.0\PracticeTask.runtimeconfig.json
+E:\Projects\PracticeTask\PracticeTask\bin\Debug\net7.0\PracticeTask.dll
+E:\Projects\PracticeTask\PracticeTask\bin\Debug\net7.0\PracticeTask.pdb
+E:\Projects\PracticeTask\PracticeTask\obj\Debug\net7.0\PracticeTask.dll
+E:\Projects\PracticeTask\PracticeTask\obj\Debug\net7.0\refint\PracticeTask.dll
+E:\Projects\PracticeTask\PracticeTask\obj\Debug\net7.0\PracticeTask.pdb
+E:\Projects\PracticeTask\PracticeTask\obj\Debug\net7.0\PracticeTask.genruntimeconfig.cache
+E:\Projects\PracticeTask\PracticeTask\obj\Debug\net7.0\ref\PracticeTask.dll
